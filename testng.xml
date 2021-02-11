@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Test_RedBus.Wallet_Card_Window_Test"/>
+      <class name="Test_RedBus.Sign_Out_From_All_Devices_Test"/>
+      <class name="Test_RedBus.Modify_Date_Test"/>
+      <class name="Test_RedBus.Search_Bus_Test"/>
+      <class name="Test_RedBus.My_Trips_Window_Test"/>
+      <class name="Test_RedBus.Wallet_Money_Test"/>
+      <class name="Test_RedBus.Cancel_Ticket_Test"/>
+      <class name="Test_RedBus.My_Profile_Window_Test"/>
+      <class name="Test_RedBus.Show_My_Ticket_Test"/>
+      <class name="Test_RedBus.Safety_Program_Test"/>
+      <class name="Test_RedBus.Update_Profile_Test"/>
+      <class name="Test_RedBus.Know_More_Test"/>
+      <class name="Test_RedBus.Sign_In_Test"/>
+      <class name="Test_RedBus.rPool_Test"/>
+      <class name="Test_RedBus.Operator_Bus_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
